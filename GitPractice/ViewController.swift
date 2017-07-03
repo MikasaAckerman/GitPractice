@@ -13,6 +13,13 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let AAAAAA = -5
+        let AAAAA = -4
+        
+        let AAAA = -3
+        
+        let AAA = -2
+        
         let AA = -1
         
         let A = 0
